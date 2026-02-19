@@ -44,9 +44,10 @@ npm run dev
 ```
 
 ## Screenshots
-![Screenshot 2024-02-22 102331](https://github.com/Mrakheen/MediMetrics-Hack-Headstarter-Project/assets/53326887/ddb12154-2e5c-4a73-a370-108ce93cd50e)
+<img width="1821" height="930" alt="image" src="https://github.com/user-attachments/assets/ef0d96b4-7a0d-4b23-b1a4-e33cd04e7689" />
 
-![Screenshot 2024-02-22 102534](https://github.com/Mrakheen/MediMetrics-Hack-Headstarter-Project/assets/53326887/ed539a8c-0a9a-4026-8632-c2059114e78b)
+
+<img width="1038" height="919" alt="image" src="https://github.com/user-attachments/assets/a9711543-b3f3-4afb-a7e8-3ef14e59b878" />
 
 ## Acknowledgements
 We extend our gratitude to Yasin, and all who supported us during this hackathon.
