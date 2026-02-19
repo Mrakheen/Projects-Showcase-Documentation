@@ -44,7 +44,7 @@ npm run dev
 ```
 
 ## Screenshots
-<img width="1821" height="930" alt="image" src="https://github.com/user-attachments/assets/ef0d96b4-7a0d-4b23-b1a4-e33cd04e7689" />
+<img width="1821" height="930" alt="image" src="https://github.com/user-attachments/assets/e3490d50-5838-43e4-9284-36383bd83899" />
 
 
 <img width="1038" height="919" alt="image" src="https://github.com/user-attachments/assets/a9711543-b3f3-4afb-a7e8-3ef14e59b878" />
