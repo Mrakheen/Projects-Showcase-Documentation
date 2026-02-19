@@ -120,20 +120,18 @@ $ python manage.py test
 # Video Demos
 
 
-Uploading 2.mp4…
+
+
+https://github.com/user-attachments/assets/3f9f0959-830f-4559-b864-d5473352f8b1
 
 
 
-Uploading 3.mp4…
+https://github.com/user-attachments/assets/ead38542-fc7a-4583-9abb-565e83c5247e
 
 
 
 
-Uploading 4.mp4…
-
-
-
-[https://github.com/Mrakheen/Read-Odyssey-Travel-Forum-Webapp/issues/1#issue-3962066125](https://github.com/user-attachments/assets/01dc9c04-71ce-4154-b39d-20ecdc4c201b)
+https://github.com/user-attachments/assets/01dc9c04-71ce-4154-b39d-20ecdc4c201b
 
 
 
