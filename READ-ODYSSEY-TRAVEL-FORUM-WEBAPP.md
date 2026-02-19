@@ -120,15 +120,10 @@ $ python manage.py test
 # Video Demos
 
 
-
-
-https://github.com/user-attachments/assets/3f9f0959-830f-4559-b864-d5473352f8b1
-
-
-
 https://github.com/user-attachments/assets/ead38542-fc7a-4583-9abb-565e83c5247e
 
 
+https://github.com/user-attachments/assets/3f9f0959-830f-4559-b864-d5473352f8b1
 
 
 https://github.com/user-attachments/assets/01dc9c04-71ce-4154-b39d-20ecdc4c201b
