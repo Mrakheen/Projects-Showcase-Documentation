@@ -117,19 +117,9 @@ $ python manage.py test
 
 # Video Demos
 
-https://github.com/Mrakheen/Read-Odyssey-Travel-Forum-Webapp/assets/53326887/5b2dd11d-ec6f-41b0-8e9d-4c56ab7ff5bd
 
 
-https://github.com/Mrakheen/Read-Odyssey-Travel-Forum-Webapp/assets/53326887/d1de442f-f77d-493f-8586-d1af90aeeeb7
 
-
-https://github.com/Mrakheen/Read-Odyssey-Travel-Forum-Webapp/assets/53326887/5e7c9e3f-f1fe-4de9-b6e4-294cc5cc0d00
-
-
-https://github.com/Mrakheen/Read-Odyssey-Travel-Forum-Webapp/assets/53326887/ab86d3a9-76df-4838-b5f7-91a00da7b646
-
-
-https://github.com/Mrakheen/Read-Odyssey-Travel-Forum-Webapp/assets/53326887/da5e6b8c-abdf-4a6b-ac5a-80c593406d43
 
 # Aknowledgements 
 <details>
