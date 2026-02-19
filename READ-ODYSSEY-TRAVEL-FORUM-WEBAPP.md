@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/01dc9c04-71ce-4154-b39d-20ecdc4c201b
 # :airplane: Getting Started
 
 Setting up <b>Read Odyssey</b> on your local machine? Here are the instructions:
@@ -117,7 +119,7 @@ $ python manage.py test
 
 # Video Demos
 
-
+https://github.com/Mrakheen/Read-Odyssey-Travel-Forum-Webapp/issues/1#issue-3962066125
 
 
 
